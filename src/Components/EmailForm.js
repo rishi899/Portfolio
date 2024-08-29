@@ -13,9 +13,9 @@ export const EmailForm = () => {
     const handleSubmit = (e) => {
         e.preventDefault()
 
-        const serviceId = 'service_k9ke0ng'
-        const templateId = 'template_vv8n6rm'
-        const publicKey = 'Ov870F14fYqFewIpA'
+       const serviceId = 'service_c8bsslk'
+       const templateId = 'template_27bwter'
+        const publicKey = 'Wm5lYWEirSWYfOLY9'
 
         const templateParams = {
             from_name: name,
